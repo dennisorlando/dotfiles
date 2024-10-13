@@ -1,1 +1,2 @@
 - Enable Firefox "compact mode"
+- use system clipboard in NeoVim (set clipboard=unnamedplus)
