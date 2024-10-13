@@ -1,0 +1,1 @@
+- Enable Firefox "compact mode"
